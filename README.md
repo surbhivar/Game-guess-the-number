@@ -7,7 +7,7 @@ Steps:
 
 2. You will then guess a 3 digit number.
 
-3. The computer will then give back clues, the possible clues are:
+3. Computer will then give back clues, the possible clues are:
 
    Close: You've guessed a correct number but in the wrong position
    
