@@ -1,5 +1,7 @@
 # Game-guess-the-number
-The computer will think of a 3 digit number. You will then try to guess the 3 digit number. Computer will give back clues until you break the code.
+The computer will think of a 3 digit number. 
+You will then try to guess the 3 digit number. 
+Computer will give back clues until you break the code.
 
 Steps:
 
