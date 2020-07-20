@@ -3,7 +3,7 @@ The computer will think of a 3 digit number.
 You will then try to guess the 3 digit number. 
 Computer will give back clues until you break the code.
 
-Steps:
+Steps are as follows:
 
 1. The computer will think of 3 digit number that has no repeating digits.
 
